@@ -56,10 +56,3 @@ Work on three datasets (Forest Cover, MNIST digits, and high-dimensional synthet
   - Outlier detection using multiple methods and evaluation via recall and accuracy.
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ml-assignments.git
-   cd ml-assignments
